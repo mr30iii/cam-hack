@@ -45,7 +45,7 @@ git clone https://github.com/mr30iii/cam-hack.git
 ```
 
 ```
-cd CamHack
+cd cam-hack
 ```
 
 ```
