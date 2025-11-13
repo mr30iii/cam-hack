@@ -53,7 +53,7 @@ chmod +x
 ```
 
 ```
-bash CamHack.sh</h6>
+bash CamHack.sh
 ```
 
 <p3> ~~~Now click <strong>Enter</strong> and Choose option 1 <strong>ngrok</strong> then choose option 1 <strong>Festival</strong> then enter a name example :- <strong>Birthday</strong> then wait to download ngrok then you get a link sent the link to the victim and <strong>enjoy</strong> to copy the image file type <strong>cp imagefilename /sdcard </strong> Now open your file manager Internal storage there you can see the image ~~~</p3>
