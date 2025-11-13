@@ -42,7 +42,9 @@ pkg install wget -y
 
 ```
 git clone https://github.com/mr30iii/cam-hack.git
-``
+```
+
+```
 cd CamHack
 ```
 
